@@ -2,7 +2,8 @@ package = "stnbhwd"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/qassemoquab/stnbhwd.git",
+   url = "git://github.com/soumith/stnbhwd.git",
+   branch = "cutorchoptional"
 }
 
 description = {
